@@ -11,3 +11,5 @@ I saw (mostly listened) to NCommander's charity stream for the [Trevor Project](
 
 It's for the [Commander X16](https://www.commanderx16.com) modern retro computer. I don't have one but the emulator works fine.  
 As of writing (11-28-2022) the web emulator fails if you try to draw below line 200 so use the Win/Linux/Mac version.
+
+![](pridex16_emu_windowed_20221128.png)
